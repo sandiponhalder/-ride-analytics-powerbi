@@ -1,4 +1,4 @@
-Ride Analytics Dashboard | Power BI
+Ride Analytics Dashboard using Power BI
 
 Overview
 I built this Power BI dashboard using a ride booking dataset to explore patterns in bookings, revenue, and cancellations. The goal was to understand how different factors like time, ride type, and customer behavior affect overall performance.
