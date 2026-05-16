@@ -1,41 +1,69 @@
-Ride Analytics Dashboard using Power BI
+# Ride Analytics Dashboard | Power BI
 
-Overview
-I built this Power BI dashboard using a ride booking dataset to explore patterns in bookings, revenue, and cancellations. The goal was to understand how different factors like time, ride type, and customer behavior affect overall performance.
+## Overview
+This project is a Power BI dashboard built using a ride booking dataset. The dashboard analyzes booking trends, revenue performance, ride cancellations, and customer behavior to understand overall business performance.
 
+The project was created to practice data analysis, dashboard design, and data visualization using Power BI.
 
+---
 
-Tools Used
-- Power BI  
-- CSV dataset  
+## Tools & Technologies
+- Power BI
+- DAX
+- CSV Dataset
 
+---
 
-Project Structure
-data/ → dataset  
-dashboard/ → Power BI file  
-images/ → dashboard screenshots  
+## Features
+- Interactive dashboard with filters and slicers
+- Booking analysis by vehicle type
+- Revenue and performance tracking
+- Ride cancellation analysis
+- Time-based booking trends
+- Customer behavior insights
 
+---
 
-Dashboard Preview
+## Project Structure
+
+data/ → Dataset files  
+dashboard/ → Power BI dashboard file  
+images/ → Dashboard screenshots  
+
+---
+
+## Dashboard Preview
 
 <img src="images/homepage.png" width="100%">
 
+---
 
-Key Insights
-- Bookings are higher during evening hours compared to other time slots  
-- Revenue varies across different vehicle types, with some categories contributing more  
-- Cancellation patterns change based on time and booking conditions  
+## Key Insights
+- Booking activity is higher during evening hours
+- Some vehicle categories generate more revenue than others
+- Cancellation trends vary based on ride timing and booking conditions
+- Customer demand changes across different time periods
 
+---
 
-Files Included
-- Ride_Analytics_Dashboard.pbix  
-- rideBookings.csv  
+## Files Included
+- Ride_Analytics_Dashboard.pbix
+- rideBookings.csv
 
+---
 
-Use Case
-This dashboard can help in understanding ride trends and improving decision-making, such as managing peak hours, reducing cancellations, and optimizing revenue.
+## What I Learned
+- Data cleaning and transformation
+- Creating DAX measures and KPIs
+- Building interactive dashboards in Power BI
+- Data visualization and storytelling
+- Business data analysis
 
+---
 
-
-Learning
-While working on this project, I learned how to clean data, create measures, and design a clean and interactive dashboard using Power BI.
+## Use Case
+This dashboard can help understand ride booking trends and support decision-making related to:
+- Peak hour management
+- Revenue optimization
+- Cancellation monitoring
+- Customer behavior analysis
